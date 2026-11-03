@@ -1,0 +1,7 @@
+rm package-lock.json
+rm -rf node_modules
+npm install
+git add .
+git commit -m "Fix Vite version"
+git push
+

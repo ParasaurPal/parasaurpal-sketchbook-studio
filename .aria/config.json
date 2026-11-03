@@ -1,0 +1,16 @@
+{
+  "provider": "google",
+  "api_key": "AQ.Ab8RN6JRZcAQGC1lGV9yps4_u_bpOTfWBDUCPwv6Wb5OycyEww",
+  "api_keys": {
+    "google": "AQ.Ab8RN6JRZcAQGC1lGV9yps4_u_bpOTfWBDUCPwv6Wb5OycyEww"
+  },
+  "model": "gemini-2.5-flash",
+  "temperature": 0.7,
+  "max_tokens": 8192,
+  "watch_mode": false,
+  "guardian_mode": false,
+  "auto_apply": false,
+  "created_at": null,
+  "updated_at": "2026-11-02T21:45:27.691734",
+  "_key_validated": true
+}
